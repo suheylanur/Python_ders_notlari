@@ -3,4 +3,4 @@
 2.[Döngüler(Loops)](Döngüler(Loops).ipynb)
 3.[Fonksiyonlar](fonksiyonlar.jpynb)
 4.[Nesne tabanlı programlama](Nesne_Tabanli_Programlama.jpynb)
-5.[Htalar ve istisnalar](Hatalara-ve_istisnalar.jpynb)
+5.[Htalar ve istisnalar](Hatalar_ve_istisnalar.ipynb)
